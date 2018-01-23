@@ -1,0 +1,2 @@
+# sladder
+A gossip node
